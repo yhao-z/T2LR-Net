@@ -1,0 +1,4 @@
+matplotlib==3.6.1
+numpy==1.23.4
+scipy==1.9.1
+tensorflow_gpu==2.9.0

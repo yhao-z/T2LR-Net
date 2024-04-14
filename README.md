@@ -31,7 +31,7 @@ Note that, we only run the code in NVIDIA GPU. In our implementation, the code c
 
 ## 2. Data
 
-We only provide the OCMR test dataset and the corresponding radial-16 under-sampling masks as demo data here, in `data` file folder. 
+We only provide the OCMR test dataset and the corresponding radial-16 under-sampling masks as demo data here. You may get the corresponding files in ***Release*** page of this repo. The files are zipped into `data.zip`. You should download, put and unzip it into the `./data` file folder.
 
 At the time we train the T$^2$LR-Net, publicly available data for dynamic MRI is very few. We could only use a small-size dataset. However, in the year we've been writing and revising, a large number of dynamic MRI raw data were open, such as [OCMR](https://www.ocmr.info/) and [CMRxRecon](https://cmrxrecon.github.io/Home.html). Thus, we highly recommend you to use a large-size dataset to fully investigate your to-be-proposed network.
 

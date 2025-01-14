@@ -3,7 +3,7 @@ The official TensorFlow implementation of **T2LR-Net**.
 
 Two published paper are related to this code,
 
-> [1] **Zhang, Yinghao**, Peng Li, and Yue Hu. "T2LR-Net: An unrolling network learning transformed tensor low-rank prior for dynamic MR image reconstruction." *Computers in Biology and Medicine* 170 (2024): 108034. ([Journal Paper](https://www.sciencedirect.com/science/article/pii/S0010482524001185))
+> [1] **Zhang, Yinghao**, Peng Li, and Yue Hu. "T2LR-Net: An unrolling network learning transformed tensor low-rank prior for dynamic MR image reconstruction." *Computers in Biology and Medicine* 170 (2024): 108034. ([Journal Paper](https://www.sciencedirect.com/science/article/pii/S0010482524001185)) ([arxiv](https://arxiv.org/abs/2209.03832))
 >
 > [2] **Zhang, Yinghao**, Peng Li, and Yue Hu. "Dynamic Mri Using Learned Transform-Based Tensor Low-Rank Network (LT 2 LR-NET)." *2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)*. IEEE, 2023. ([Conference Paper](https://ieeexplore.ieee.org/abstract/document/10230437/))
 
